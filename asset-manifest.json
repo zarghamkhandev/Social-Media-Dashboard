@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Social-Media-Dashboard/static/css/main.1a1a9280.chunk.css",
-    "main.js": "/Social-Media-Dashboard/static/js/main.d505afe5.chunk.js",
-    "main.js.map": "/Social-Media-Dashboard/static/js/main.d505afe5.chunk.js.map",
+    "main.css": "/Social-Media-Dashboard/static/css/main.a3311680.chunk.css",
+    "main.js": "/Social-Media-Dashboard/static/js/main.90421a1b.chunk.js",
+    "main.js.map": "/Social-Media-Dashboard/static/js/main.90421a1b.chunk.js.map",
     "runtime-main.js": "/Social-Media-Dashboard/static/js/runtime-main.b94d5a2b.js",
     "runtime-main.js.map": "/Social-Media-Dashboard/static/js/runtime-main.b94d5a2b.js.map",
     "static/js/2.ab16d8df.chunk.js": "/Social-Media-Dashboard/static/js/2.ab16d8df.chunk.js",
     "static/js/2.ab16d8df.chunk.js.map": "/Social-Media-Dashboard/static/js/2.ab16d8df.chunk.js.map",
     "index.html": "/Social-Media-Dashboard/index.html",
-    "precache-manifest.0d1978306cb6b0dbaf881cfa2148962e.js": "/Social-Media-Dashboard/precache-manifest.0d1978306cb6b0dbaf881cfa2148962e.js",
+    "precache-manifest.fca1192b5daa245e24dd1d947dcd2d7f.js": "/Social-Media-Dashboard/precache-manifest.fca1192b5daa245e24dd1d947dcd2d7f.js",
     "service-worker.js": "/Social-Media-Dashboard/service-worker.js",
-    "static/css/main.1a1a9280.chunk.css.map": "/Social-Media-Dashboard/static/css/main.1a1a9280.chunk.css.map",
+    "static/css/main.a3311680.chunk.css.map": "/Social-Media-Dashboard/static/css/main.a3311680.chunk.css.map",
     "static/js/2.ab16d8df.chunk.js.LICENSE.txt": "/Social-Media-Dashboard/static/js/2.ab16d8df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b94d5a2b.js",
     "static/js/2.ab16d8df.chunk.js",
-    "static/css/main.1a1a9280.chunk.css",
-    "static/js/main.d505afe5.chunk.js"
+    "static/css/main.a3311680.chunk.css",
+    "static/js/main.90421a1b.chunk.js"
   ]
 }
