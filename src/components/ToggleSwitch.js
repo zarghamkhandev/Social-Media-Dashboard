@@ -1,10 +1,10 @@
 import React from "react";
 import "./ToggleSwitch.css";
 
-const toggleSwitch = () => {
+const toggleSwitch = (props) => {
   return (
-    <label class="switch">
-      <input type="checkbox" /> <div></div>
+    <label className="switch">
+      <input type="checkbox" onClick={props.clicked} /> <div></div>
     </label>
   );
 };

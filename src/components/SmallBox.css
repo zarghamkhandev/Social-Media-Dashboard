@@ -1,0 +1,24 @@
+.darkBox {
+  background-color: #252b43;
+  box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.3);
+  height: 125px;
+  width: 250px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.darkBox:hover {
+  background-color: #333a56;
+}
+
+.lightBox {
+  background-color: hsl(227, 47%, 96%);
+  box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.3);
+  height: 125px;
+  width: 250px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.lightBox:hover {
+  background-color: #e1e3f0;
+}
