@@ -45,7 +45,7 @@ class App extends Component {
     return (
       <div style={{ backgroundColor: colors.bodyColor }}>
         <div
-          className="pb-32"
+          className="pb-32 "
           style={{ backgroundColor: colors.backgroundColor }}
         >
           <header className="flex pt-10 w-11/12 m-auto text-white">
